@@ -1,0 +1,8 @@
+requests
+mysql-connector-python
+pandas
+streamlit
+plotly
+openpyxl
+scikit-learn
+streamlit-autorefresh

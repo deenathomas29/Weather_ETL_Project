@@ -1,0 +1,32 @@
+[2025-06-09 22:00:15] ✅ Connected to MySQL database.
+[2025-06-09 22:00:15] ✅ New York saved successfully.
+[2025-06-09 22:00:15] ✅ Los Angeles saved successfully.
+[2025-06-09 22:00:15] ✅ Chicago saved successfully.
+[2025-06-09 22:00:15] ✅ Houston saved successfully.
+[2025-06-09 22:00:15] ✅ Phoenix saved successfully.
+[2025-06-09 22:00:15] ✅ London saved successfully.
+[2025-06-09 22:00:15] ✅ Paris saved successfully.
+[2025-06-09 22:00:15] ✅ Berlin saved successfully.
+[2025-06-09 22:00:15] ✅ Madrid saved successfully.
+[2025-06-09 22:00:15] ✅ Rome saved successfully.
+[2025-06-09 22:00:15] ✅ Tokyo saved successfully.
+[2025-06-09 22:00:15] ✅ Seoul saved successfully.
+[2025-06-09 22:00:16] ✅ Beijing saved successfully.
+[2025-06-09 22:00:16] ✅ Bangkok saved successfully.
+[2025-06-09 22:00:16] ✅ Singapore saved successfully.
+[2025-06-09 22:00:16] ✅ Mumbai saved successfully.
+[2025-06-09 22:00:16] ✅ Delhi saved successfully.
+[2025-06-09 22:00:16] ✅ Bangalore saved successfully.
+[2025-06-09 22:00:16] ✅ Hyderabad saved successfully.
+[2025-06-09 22:00:16] ✅ Chennai saved successfully.
+[2025-06-09 22:00:16] ✅ Cairo saved successfully.
+[2025-06-09 22:00:16] ✅ Istanbul saved successfully.
+[2025-06-09 22:00:16] ✅ Moscow saved successfully.
+[2025-06-09 22:00:16] ✅ Johannesburg saved successfully.
+[2025-06-09 22:00:16] ✅ Lagos saved successfully.
+[2025-06-09 22:00:16] ✅ Sydney saved successfully.
+[2025-06-09 22:00:16] ✅ Melbourne saved successfully.
+[2025-06-09 22:00:16] ✅ Toronto saved successfully.
+[2025-06-09 22:00:16] ✅ Mexico City saved successfully.
+[2025-06-09 22:00:16] ✅ Rio de Janeiro saved successfully.
+[2025-06-09 22:00:16] 🎉 All data inserted and database closed.
