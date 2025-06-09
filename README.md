@@ -54,8 +54,10 @@ This project includes an automation setup using a `.bat` script (`run_weather_da
 - Automatically update MySQL with the latest weather info every 2 days.
 - Run the Streamlit dashboard continuously with updated data.
 
+- **Note:** You can use Task Scheduler (Windows) or `cron` (Linux/macOS) to schedule the `.bat` file execution.
+
 - ## 📬 Contact
 
 Feel free to reach out for suggestions or questions.
 
-**Note:** You can use Task Scheduler (Windows) or `cron` (Linux/macOS) to schedule the `.bat` file execution.
+
