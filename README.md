@@ -47,15 +47,15 @@ streamlit run weather_dashboard.py
 
 Interactive bar charts, pie charts, and weather tables are available in the dashboard.
 
-## 📬 Contact
-
-Feel free to reach out for suggestions or questions.
-
 ## 🕒 Automation
 
 This project includes an automation setup using a `.bat` script (`run_weather_dashboard.bat`) that can be scheduled to:
 - Auto-refresh the weather data by re-running the ETL script.
 - Automatically update MySQL with the latest weather info every 2 days.
 - Run the Streamlit dashboard continuously with updated data.
+
+- ## 📬 Contact
+
+Feel free to reach out for suggestions or questions.
 
 **Note:** You can use Task Scheduler (Windows) or `cron` (Linux/macOS) to schedule the `.bat` file execution.
